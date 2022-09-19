@@ -1,0 +1,14 @@
+{
+  "name": "testeintegracao",
+  "version": "1.0.0",
+  "description": "Teste automatizados com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/cypress open"
+  },
+  "author": "Mardonio S Costa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
